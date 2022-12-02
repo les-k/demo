@@ -1,2 +1,2 @@
 # demo
-intro to github
+intro to github6
